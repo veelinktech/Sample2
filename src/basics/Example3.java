@@ -1,4 +1,4 @@
-package PracticeProgram;
+package basics;
 
 public class Example3 {
 
