@@ -1,6 +1,6 @@
 package basics;
 
-public class Example1 
+public class Example2 
 {
 	
 	public void sub()
@@ -14,7 +14,7 @@ public class Example1
 
 	public static void main(String[] args) 
 	{
-		Example1 e1=new Example1();
+		Example2 e1=new Example2();
 		
 		e1.sub();
 
